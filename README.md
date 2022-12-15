@@ -2,6 +2,7 @@
  
 <h1 align="center">Hi 👋, I'm Deepak Bhardwaj</h1>
 <h3 align="center">A passionate Backend developer | from India</h3>
+<img src="codeing.gif" alt="Smiley face" width="402" height="500" style="border:5px solid black">
 
 <img align="right"alt="coding"width="400" src="codeing.gif">
 
