@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/deepak-bhardwaj-3b433b220/)
 
-- 💬 Ask me about ** C++,html,css,js,python **
+- 💬 Ask me about [C++,html,css,js,python]()
 
 - 📫 How to reach me **iamdeepak199@gmail.com**
 
