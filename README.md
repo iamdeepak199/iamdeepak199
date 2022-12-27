@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Bhardwaj</h1>
 <h3 align="center">A passionate Backend & Frontend developer | from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdeepak199&label=Profile%20views&color=0e75b6&style=flat" alt="iamdeepak199" /> </p><br>
+
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🔭 I’m currently focusing on DSA
@@ -34,6 +35,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdeepak199" alt="iamdeepak199" /></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdeepak199&show_icons=true&locale=en&layout=compact" alt="iamdeepak199" /></p><br><br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&locale=en" alt="iamdeepak199" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&locale=en" alt="iamdeepak199" /></p><br><br><br><br><br><br><br><br>
 
+<p>You can find here configs of my tools and projects that I have worked on or that piqued my interest, feel free to contact me if you like any of my projects and want to collaborate in any of them.</p>
+
+ 
+[![Github](https://img.shields.io/github/followers/iamdeepak199?label=Follow&style=social)](https://github.com/iamdeepak199)
 
