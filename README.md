@@ -1,6 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
-<h1 align="center">Hi 👋, I'm Deepak deepak Bhardwaj</h1>
+<h1 align="center">Hi 👋, I'm Deepak deepa Bhardwaj</h1>
 <h3 align="center">A passionate Backend & Frontend developer | from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdeepak199&label=Profile%20views&color=0e75b6&style=flat" alt="iamdeepak199" /> </p><br>
 
