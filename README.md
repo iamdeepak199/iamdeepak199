@@ -38,7 +38,7 @@
   <a href="https://github.com/iamdeepak199">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarUTEC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarUTEC&layout=compact&langs_count=7&theme=dark"/>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarUTEC&&theme=tokyonight" alt="OmarUTEC" /></p>
+   <p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=OmarUTEC&&theme=tokyonight" alt="OmarUTEC" ](https://github-readme-stats.vercel.app/api/top-langs?username=iamdeepak199&show_icons=true&locale=en&layout=compact" alt="iamdeepak199" )/></p>
 </div>
 
 ![deno](https://raw.githubusercontent.com/keagtorb/keagtorb/main/Res/dino.gif)
