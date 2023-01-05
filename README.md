@@ -37,9 +37,10 @@
 
 <div align="center">
   <a href="https://github.com/OmarUTEC">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarUTEC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarUTEC&layout=compact&langs_count=7&theme=dark"/>
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdeepak199&&theme=tokyonight" alt="iamdeepak199" /></p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdeepak199" alt="iamdeepak199" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdeepak199&show_icons=true&locale=en&layout=compact" alt="iamdeepak199" /></p><br><br>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&locale=en" alt="iamdeepak199"/></p><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 
 ![deno](https://raw.githubusercontent.com/keagtorb/keagtorb/main/Res/dino.gif)
