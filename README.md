@@ -41,5 +41,5 @@
 <p>You can find here configs of my tools and projects that I have worked on or that piqued my interest, feel free to contact me if you like any of my projects and want to collaborate in any of them.</p>
 
  
-[![Github](https://img.shields.io/github/followers/iamdeepak199?label=Follow&style=social)](https://github.com/iamdeepak199)
+[![Github](https://img.shields.io/github/followers/iamdeepak199?label=Follow&style=social)](https://github.com/iamdeepak19)
 
