@@ -40,7 +40,7 @@
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdeepak199" alt="iamdeepak199" /></a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdeepak199&show_icons=true&locale=en&layout=compact" alt="iamdeepak199" /></p><br><br>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&locale=en" alt="iamdeepak199"/></p><br><br><br><br><br><br><br><br><br><br><br><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&locale=en&&theme=tokyonight"  alt="iamdeepak199"/></p><br><br><br><br><br><br><br><br><br><br><br><br>
 </div>
 
 ![deno](https://raw.githubusercontent.com/keagtorb/keagtorb/main/Res/dino.gif)
