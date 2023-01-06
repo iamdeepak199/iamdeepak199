@@ -44,7 +44,7 @@
 </div>
 <div align="center">
   <p align="centert"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdeepak199" alt="iamdeepak199"/></a>
- </div>
+  <a href="https://github.com/iamdeepak199">
 ![deno](https://raw.githubusercontent.com/keagtorb/keagtorb/main/Res/dino.gif)
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=red&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+my+github+Valel....👨🏻‍💻;" style="width: 100%;">
