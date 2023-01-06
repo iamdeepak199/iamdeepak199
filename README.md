@@ -58,7 +58,7 @@
  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  </p>
  
  
- 🛠️ Tools 2
+ ##🛠️ Tools 2
 [![My Skills](https://skillicons.dev/icons?i=git,androidstudio,visualstudio,vscode,github)](https://skillicons.dev)
 <div align="center">
   <a href="https://github.com/iamdeepak199">
