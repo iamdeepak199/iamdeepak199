@@ -38,7 +38,7 @@
 <div align="center">
   <a href="https://github.com/iamdeepak199">
   <p align="centert"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdeepak199&&theme=tokyonight" alt="iamdeepak199" /></a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdeepak199&show_icons=true&locale=en&&theme=tokyonight" layout=compact" alt="iamdeepak199" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamdeepak199&show_icons=true&locale=en&&theme=tokyonight" layout=compact" alt="iamdeepak199" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&locale=en&&theme=tokyonight"  alt="iamdeepak199"/></p>
 </div>
