@@ -66,7 +66,7 @@
  
  
  ## 🛠️ Tools 2
-[![My Skills](https://skillicons.dev/icons?i=git,androidstudio,vscode,eclipse,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,androidstudio,visualstudio,vscode,vscode,eclipse,github)](https://skillicons.dev)
 <div align="center">
   <a href="https://github.com/iamdeepak199">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></img>
