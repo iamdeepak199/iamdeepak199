@@ -20,7 +20,7 @@
 - 📫 How to reach me **iamdeepak199@gmail.com**
 
 <p align="left"> <a href="https://twitter.com/deepak96437622" target="blank"><img src="https://img.shields.io/twitter/follow/deepak96437622?logo=twitter&style=for-the-badge" alt="deepak96437622" /></a> </p>
- ## 🛠️ Tools 2
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deepak96437622" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepak96437622" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepak bhardwaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak bhardwaj" height="30" width="40" /></a>
@@ -64,7 +64,7 @@
  
  
  ## 🛠️ Tools 2
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,eclipse,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,androidstudio,vscode,github)](https://skillicons.dev)
 
 <div align="center">
   <a href="https://github.com/iamdeepak199">
