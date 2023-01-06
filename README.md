@@ -37,9 +37,9 @@
 [![My Skills](https://skillicons.dev/icons?i=git,androidstudio,vscode,visualstudio,github)]()
 
   <a href="https://github.com/iamdeepak199">
-  <img align="left" height="165em" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></img>
-  <img align="right" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepak199&layout=compact&langs_count=7&theme=dark"/>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdeepak199&&theme=tokyonight" alt="iamdeepak199" /></p>
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></img>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepak199&layout=compact&langs_count=7&theme=dark"/>
+    <p><img align="center"height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdeepak199&&theme=tokyonight" alt="iamdeepak199" /></p>
 
 <div align="center">
   <p align="centert"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdeepak199" alt="iamdeepak199"/></a>
