@@ -64,7 +64,7 @@
  
  
  ## 🛠️ Tools 2
-[![My Skills](https://skillicons.dev/icons?i=git,androidstudio,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,androidstudio,vscode,pycharm,github)](https://skillicons.dev)
 
 <div align="center">
   <a href="https://github.com/iamdeepak199">
