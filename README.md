@@ -40,7 +40,7 @@
  
  
  ## 🛠️ Tools 2:
-[![My Skills](https://skillicons.dev/icons?i=git,androidstudio,vscode,visualstudio,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,androidstudio,vscode,visualstudio,github)]()
 
 <div align="center">
   <a href="https://github.com/iamdeepak199">
