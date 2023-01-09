@@ -38,7 +38,7 @@
 
   <a href="https://github.com/iamdeepak199">
   <img align="center" height="167em" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></img>
-  <img align="center" height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepak199&layout=compact&langs_count=7&theme=dark"/><br><br>
+  <img align="center" height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepak199&layout=compact&langs_count=7&theme=dark"/><br>
  <div align="center">
     <p><img align="center"height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdeepak199&&theme=tokyonight" alt="iamdeepak199" /></p></div>
 
