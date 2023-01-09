@@ -37,8 +37,8 @@
 [![My Skills](https://skillicons.dev/icons?i=git,androidstudio,vscode,visualstudio,github)]()
 
   <a href="https://github.com/iamdeepak199">
-  <img align="center" height="250em" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></img>
-  <img align="center" height="25em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepak199&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=iamdeepak199&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/></img>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdeepak199&layout=compact&langs_count=7&theme=dark"/>
     <p><img align="center"height="250em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamdeepak199&&theme=tokyonight" alt="iamdeepak199" /></p>
 
 <div align="center">
