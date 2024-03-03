@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-- 🔭 I’m currently focusing on DSA
+- 🔭 I’m currently focusing on Data Structurse
 
 - 🌱 I’m currently learning oop's concepts.
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/deepak-bhardwaj-3b433b220/)
 
-- 💬 Ask me about [C++,html,css,js,python]()
+- 💬 Ask me about [C++,html,css,js,React,Sql,DBMS,python]()
 
 - 📫 How to reach me **iamdeepak199@gmail.com**
 
