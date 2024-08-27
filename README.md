@@ -60,11 +60,13 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=red&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+You+Like+My+GitHub+Profile....👨🏻‍💻;" style="width: 100%;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=red&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+You+Like+My+GitHub+Profile....👨🏻‍💻;" alt="Thank You" style="width: 100%; max-width: 600px;"><p style="font-size:100px"> &#128187;;</p>
+  <br>
 </p>
 
-<p>You can find configs of my tools and projects that I have worked on or that piqued my interest. Feel free to contact me if you like any of my projects and want to collaborate.</p>
 
-<p align="center">
-  [![Github](https://img.shields.io/github/followers/iamdeepak199?label=Follow&style=social)](https://github.com/iamdeepak199)
-</p>
+<p>You can explore the configurations of the tools and projects I’ve worked on or found interesting. If any of my projects catch your eye and you’d like to collaborate, don’t hesitate to reach out!.</p>
+
+<a href="https://github.com/iamdeepak199">
+  <img src="https://img.shields.io/github/followers/iamdeepak199?label=Follow&style=social" alt="Github">
+</a>
