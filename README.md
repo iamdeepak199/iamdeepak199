@@ -1,13 +1,6 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 <h1 align="center">Hi 👋, I'm Deepak Bhardwaj</h1>
 <h3 align="center">A passionate frontend & Backend developer from India.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamdeepak199&label=Profile%20views&color=0e75b6&style=flat" alt="iamdeepak199" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamdeepak199" alt="iamdeepak199" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/deepak96437622" target="blank"><img src="https://img.shields.io/twitter/follow/deepak96437622?logo=twitter&style=for-the-badge" alt="deepak96437622" /></a> </p>
-
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
@@ -60,7 +53,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=red&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+You+Like+My+GitHub+Profile....👨🏻‍💻;" alt="Thank You" style="width: 100%; max-width: 600px;"><p style="font-size:100px"> &#128187;;</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=red&amp;size=20&amp;lines=Thanks!+For+Visiting+My+Profile!;See+You+Next-Time+Hope+You+Like+My+GitHub+Profile....👨🏻‍💻;" alt="Thank You" style="width: 100%; max-width: 600px;">
   <br>
 </p>
 
