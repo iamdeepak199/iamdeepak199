@@ -13,11 +13,11 @@
 
 - 🤝 I’m looking for help with [Project](https://github.com/iamdeepak199/website-)
 
-- 👨‍💻 All of my projects are available at [https://imdeepak199.000webhostapp.com/](https://imdeepak199.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [My Profile](https://deepak-bhardwaj-profile.vercel.app/)
 
 - 💬 Ask me about **C++, HTML, CSS, JavaScript, React(Basic's), MySQL, DBMS, Python, Node.js, Express.**
 
-- 📫 How to reach me **iamdeepak199@gmail.com**
+- 📫 How to reach me **imdeepak2201@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_SYHx-gF4rSjQhaDEHbvZi756z7wjCvS/view?usp=sharing](https://drive.google.com/file/d/1_SYHx-gF4rSjQhaDEHbvZi756z7wjCvS/view?usp=sharing)
 
