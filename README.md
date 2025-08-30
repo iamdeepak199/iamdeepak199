@@ -1,13 +1,31 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 <h1 align="center">Hi 👋, I'm Deepak Bhardwaj</h1>
-<h3 align="center">A passionate frontend & Backend developer from India.</h3>
+<h3 align="center">A passionate full-stack developer.</h3>
 <br>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 - 🔭 I’m currently working on Node.js Project [Website Production House](https://github.com/iamdeepak199/Web-project)
 
-- 🌱 I’m currently learning **Node.js, Express, Api, Mysql Workbench, Postman & C++ with DSA.**
+🌱 I’m currently working with the following tech stack:
+
+💻 Languages
+
+   - C++, Python, JavaScript (ES6+), SQL, Node.js, Express.js, React.js, HTML, CSS, Object-Oriented Programming (OOPs)
+
+🛠 Tools & Frameworks
+
+   - Visual Studio, Sublime Text, Postman, Git/GitHub, MySQL Workbench, MongoDB Compass
+
+☁️ Technical Proficiency
+
+  -  Data Structures & Algorithms (DSA)
+
+  - Cloud Computing (AWS, Website Hosting)
+
+  -  Operating Systems (Linux, Windows)
+
+  -  Networking, DBMS, System Design
 
 - 👯 I’m looking to collaborate on [Website Production House](https://github.com/iamdeepak199/Web-project)
 
@@ -15,13 +33,13 @@
 
 - 👨‍💻 All of my projects are available at [My Profile](https://deepak-bhardwaj-profile.vercel.app/)
 
-- 💬 Ask me about **C++, HTML, CSS, JavaScript, React(Basic's), MySQL, DBMS, Python, Node.js, Express.**
+- 💬 Ask me about **C++, HTML, CSS, JavaScript,Es+6, React, Node.js, Express.js, SQL, DBMS, Python.**
 
 - 📫 How to reach me **imdeepak2201@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_SYHx-gF4rSjQhaDEHbvZi756z7wjCvS/view?usp=sharing](https://drive.google.com/file/d/1_SYHx-gF4rSjQhaDEHbvZi756z7wjCvS/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/15bUfqpfuW3Z8SFOPDgkJU6K-Mj1_hoZQ/view?usp=sharing)
 
-- ⚡ Life goal **I will be a good coder & run my own company at the age of 40+**
+- ⚡ Life goal **I will be a good coder & run my own company at the age of 35+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
